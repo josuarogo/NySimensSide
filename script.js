@@ -1,0 +1,1 @@
+alert("Velkommen til denne nettsiden. Denne siden ble opprettet i 2014 av Simen Josua Rrogoyawa")

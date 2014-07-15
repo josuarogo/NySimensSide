@@ -1,0 +1,55 @@
+/* Styles go here */
+
+
+body:after {
+    content: "";
+    /* other formatting */
+}
+
+body{background-color:black;}
+.titlewhite
+{
+    color:white;
+}
+.nobullets
+{
+    list-style-type:none;
+}
+h2
+{color:white;
+
+}
+ul
+{
+    color:white;
+}
+
+li
+{
+    color:#00CC00;
+}
+h1
+{
+    color:white;
+
+}
+a
+{color:yellow;}
+td
+{
+    color:white;
+}
+h3
+{
+    color:white;
+}
+
+p
+{
+    color:white;
+    font-size:120%;
+}
+a
+{
+    color:#00CC00;
+}
